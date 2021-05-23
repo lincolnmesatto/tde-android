@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraApp</string>
+    <string name="image_from_camera">Imagem da Câmera</string>
+    <string name="take_picture">Tirar Foto</string>
+    <string name="selecionar">Selecionar</string>
+    <string name="converter">Converter</string>
+</resources>
